@@ -3,6 +3,8 @@
 
 # Inventario
 
+## Componenti
+
 ### Processori
 | Modello | L2 Cache + L3 Cache | MHZ | Architettura |
 | ------- | ------------------- | --- | ------------ |
