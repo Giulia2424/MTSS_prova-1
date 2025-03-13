@@ -1,9 +1,7 @@
 2104060
 2111004
 
-# Inventario
-
-## Processori
+# Processori
 | Modello | L2 Cache + L3 Cache | MHZ | Architettura |
 | ------- | ------------------- | --- | ------------ |
 | AMD Ryzen Threadripper PRO 7995WX | 96MB + 384MB | 2500 | x86 |
